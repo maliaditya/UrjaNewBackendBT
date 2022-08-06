@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ba82130.chunk.css",
+    "main.js": "/static/js/main.ab7f7bd0.chunk.js",
+    "main.js.map": "/static/js/main.ab7f7bd0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b365c76a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b365c76a.js.map",
+    "static/css/2.e46a0ee4.chunk.css": "/static/css/2.e46a0ee4.chunk.css",
+    "static/js/2.d0ece420.chunk.js": "/static/js/2.d0ece420.chunk.js",
+    "static/js/2.d0ece420.chunk.js.map": "/static/js/2.d0ece420.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e46a0ee4.chunk.css.map": "/static/css/2.e46a0ee4.chunk.css.map",
+    "static/css/main.7ba82130.chunk.css.map": "/static/css/main.7ba82130.chunk.css.map",
+    "static/js/2.d0ece420.chunk.js.LICENSE.txt": "/static/js/2.d0ece420.chunk.js.LICENSE.txt",
+    "static/media/customersupport.eb299a39.svg": "/static/media/customersupport.eb299a39.svg",
+    "static/media/login.e8e04464.png": "/static/media/login.e8e04464.png",
+    "static/media/logo.b7406e5a.svg": "/static/media/logo.b7406e5a.svg",
+    "static/media/message.151b3700.svg": "/static/media/message.151b3700.svg",
+    "static/media/styles.css": "/static/media/revicons.e8746a62.woff",
+    "static/media/urja.014a4ccb.png": "/static/media/urja.014a4ccb.png",
+    "static/media/verified.1f8085af.svg": "/static/media/verified.1f8085af.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b365c76a.js",
+    "static/css/2.e46a0ee4.chunk.css",
+    "static/js/2.d0ece420.chunk.js",
+    "static/css/main.7ba82130.chunk.css",
+    "static/js/main.ab7f7bd0.chunk.js"
+  ]
+}

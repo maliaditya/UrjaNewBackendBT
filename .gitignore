@@ -1,0 +1,7 @@
+*.pyc
+env/
+staticfiles/
+venv/
+*.mo
+*.po
+*/migrations/
